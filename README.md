@@ -51,6 +51,9 @@ node index.js
 3. Interact with the application
 The application will prompt you to ask a question related to the PDF document. You can continue to ask questions or type "e" to exit.
 
+## Output
+![Untitled](https://github.com/user-attachments/assets/ddceb288-5a94-467c-ab04-93a962c51e5d)
+
 
 ## Features
 - PDF Loading: Load and process PDF documents.
@@ -63,6 +66,4 @@ The application will prompt you to ask a question related to the PDF document. Y
 - The OpenAI API key is required for generating embeddings and answering questions.
 - The application uses the langchain library's in-memory vector store for storing and retrieving document chunks.
 
-## Output
-![Untitled](https://github.com/user-attachments/assets/ddceb288-5a94-467c-ab04-93a962c51e5d)
 

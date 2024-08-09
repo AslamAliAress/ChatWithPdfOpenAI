@@ -9,10 +9,3 @@ Ensure you have Node.js installed. You can check this by running:
 ```bash
 node -v
 npm -v
-
-If Node.js is not installed, download and install it from here.
-
-Setup
-Initialize the project
-Open your terminal and run the following command to create a new Node.js project:
-npm init -y

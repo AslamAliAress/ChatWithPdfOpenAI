@@ -10,7 +10,7 @@ Ensure you have Node.js installed. You can check this by running:
 node -v
 ```
 
-If Node.js is not installed, download and install it from here.
+If Node.js is not installed, download and install it from here. https://nodejs.org/en
 
 ## Setup
 

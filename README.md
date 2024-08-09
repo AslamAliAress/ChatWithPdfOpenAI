@@ -8,4 +8,5 @@ Ensure you have Node.js installed. You can check this by running:
 
 ```bash
 node -v
-npm -v
+```bash
+
